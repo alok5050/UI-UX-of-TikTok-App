@@ -1,0 +1,178 @@
+.footer4 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-color: var(--schemes-on-primary);
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 390px;
+  height: 61px;
+}
+.inbox-icon1,
+.profile-icon {
+  position: absolute;
+  top: 14px;
+  left: 256px;
+  width: 24px;
+  height: 23px;
+  object-fit: cover;
+}
+.profile-icon {
+  top: 11px;
+  left: 332px;
+  width: 26.4px;
+  height: 30px;
+}
+.home-icon2 {
+  position: absolute;
+  height: 58.33%;
+  width: 8.97%;
+  top: 13.33%;
+  right: 83.59%;
+  bottom: 28.33%;
+  left: 7.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.discover-icon {
+  position: absolute;
+  top: 14px;
+  left: 110px;
+  width: 23.1px;
+  height: 23.1px;
+}
+.create-button-child {
+  position: absolute;
+  top: 0;
+  left: 9.9px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-crimson-100);
+  width: 43px;
+  height: 32px;
+}
+.create-button-item,
+.group-child10,
+.group-child11,
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkturquoise);
+  width: 43.4px;
+  height: 32px;
+}
+.group-child10,
+.group-child11,
+.group-child12 {
+  background-color: var(--color-black);
+  width: 46.9px;
+}
+.group-child11,
+.group-child12 {
+  top: 6.8px;
+  left: 23.2px;
+  background-color: var(--schemes-on-primary);
+  width: 1.1px;
+  height: 20.1px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.group-child12 {
+  top: 17.2px;
+  left: 35.4px;
+  width: 0.9px;
+  height: 25.9px;
+  transform: rotate(-90deg);
+}
+.create-button,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 2.7px;
+  width: 46.9px;
+  height: 32px;
+}
+.create-button {
+  top: 10px;
+  left: 169px;
+  width: 53px;
+}
+.discover6,
+.home5,
+.inbox5,
+.profile9 {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 15px;
+}
+.discover6,
+.inbox5,
+.profile9 {
+  left: 94px;
+}
+.inbox5,
+.profile9 {
+  left: 242px;
+}
+.profile9 {
+  left: 316px;
+}
+.footer3 {
+  position: absolute;
+  top: 784px;
+  left: 0;
+  width: 390px;
+  height: 60px;
+}
+.discover7,
+.users-sounds-hashtags {
+  position: absolute;
+  top: 7px;
+  left: 74px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: #100f0f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 217px;
+  height: 31px;
+}
+.users-sounds-hashtags {
+  top: 53px;
+  left: -4px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: #565151;
+  white-space: pre-wrap;
+  width: 390px;
+  height: 36px;
+}
+.discover-child {
+  position: absolute;
+  top: 88.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 391px;
+  height: 1px;
+}
+.discover5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

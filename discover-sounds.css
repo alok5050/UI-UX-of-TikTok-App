@@ -1,0 +1,378 @@
+.label-text {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.button,
+.state-layer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.state-layer {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  padding: 10px var(--padding-5xl);
+}
+.button {
+  position: absolute;
+  top: 309px;
+  left: 32px;
+  border-radius: var(--br-81xl);
+  background-color: var(--schemes-primary);
+  width: 102px;
+  height: 38px;
+  overflow: hidden;
+  flex-direction: column;
+  color: var(--schemes-on-primary);
+}
+.user123 {
+  position: absolute;
+  top: 51px;
+  left: 142px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 78px;
+  height: 18px;
+}
+.chevron-left-icon {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 43px;
+  height: 32px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.bell-icon-1,
+.three-dot-1-icon {
+  position: absolute;
+  top: 11px;
+  left: 289px;
+  width: 28px;
+  height: 32px;
+  object-fit: cover;
+}
+.three-dot-1-icon {
+  top: 19px;
+  left: 338px;
+  width: 25px;
+  height: 16px;
+}
+.avatar-icon,
+.discover-sounds-child {
+  position: absolute;
+  width: 82px;
+  height: 68px;
+}
+.avatar-icon {
+  top: 86px;
+  left: 131px;
+  border-radius: 9999px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.discover-sounds-child {
+  top: 88px;
+  left: 127px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  display: none;
+}
+.blue-tick-1-icon,
+.user1231 {
+  position: absolute;
+  top: 161px;
+  height: 19px;
+}
+.user1231 {
+  left: 141px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 79px;
+}
+.blue-tick-1-icon {
+  left: 213px;
+  width: 19px;
+  object-fit: cover;
+}
+.artist,
+.div1,
+.followers,
+.following,
+.likes,
+.m1,
+.m2 {
+  position: absolute;
+  top: 187px;
+  left: 154px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 34px;
+  height: 12px;
+}
+.div1,
+.followers,
+.following,
+.likes,
+.m1,
+.m2 {
+  top: 213px;
+  left: 97px;
+  width: 37px;
+  height: 14px;
+}
+.followers,
+.following,
+.likes,
+.m1,
+.m2 {
+  top: 232px;
+  left: 79px;
+  width: 62px;
+}
+.followers,
+.likes,
+.m1,
+.m2 {
+  top: 213px;
+  left: 154px;
+  width: 41px;
+  height: 8px;
+}
+.followers,
+.likes,
+.m2 {
+  top: 231px;
+  left: 145px;
+  width: 54px;
+  height: 15px;
+}
+.likes,
+.m2 {
+  top: 213px;
+  left: 216px;
+  width: 51px;
+  height: 16px;
+}
+.likes {
+  top: 232px;
+  left: 214px;
+  width: 46px;
+  height: 8px;
+}
+.man-tick-1-icon {
+  position: absolute;
+  top: 300px;
+  left: 141px;
+  width: 61px;
+  height: 51px;
+  object-fit: cover;
+}
+.instagram-icon {
+  position: absolute;
+  top: 309px;
+  left: 216px;
+  width: 51px;
+  height: 34px;
+  overflow: hidden;
+}
+.arrow-drop-down-icon,
+.music-icon {
+  position: absolute;
+  top: 304px;
+  left: 287px;
+  width: 53px;
+  height: 43px;
+}
+.music-icon {
+  top: 422px;
+  left: 16px;
+  width: 46px;
+  height: 34px;
+  overflow: hidden;
+}
+.bento-menu-1-icon {
+  position: absolute;
+  top: 419px;
+  left: 120px;
+  width: 45px;
+  height: 37px;
+  object-fit: cover;
+}
+.heart-icon1,
+.shopping-bag-icon {
+  position: absolute;
+  top: 416px;
+  left: 214px;
+  width: 53px;
+  height: 36px;
+  overflow: hidden;
+}
+.heart-icon1 {
+  top: 419px;
+  left: 289px;
+  width: 51px;
+  height: 37px;
+}
+.shri-img-2-icon {
+  position: absolute;
+  top: 533px;
+  left: 7px;
+  width: 101px;
+  height: 61px;
+  object-fit: cover;
+}
+.div2,
+.pinned,
+.shri-krishna-govind,
+.used-by-200k {
+  position: absolute;
+  top: 518px;
+  left: 118px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+  height: 60px;
+}
+.div2,
+.pinned,
+.used-by-200k {
+  top: 601px;
+  left: 128px;
+  width: 46px;
+  height: 13px;
+}
+.pinned,
+.used-by-200k {
+  top: 560px;
+  left: 124px;
+  width: 132px;
+  height: 22px;
+}
+.pinned {
+  top: 599px;
+  left: 182px;
+  color: var(--color-red);
+  width: 78px;
+  height: 20px;
+}
+.save-icon-2 {
+  position: absolute;
+  top: 544px;
+  left: 274px;
+  width: 36px;
+  height: 34px;
+  object-fit: cover;
+}
+.icon1 {
+  position: absolute;
+  height: 1.64%;
+  width: 6.4%;
+  top: 65.64%;
+  right: 5.33%;
+  bottom: 32.73%;
+  left: 88.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.save-icon-1 {
+  position: absolute;
+  top: 648px;
+  left: 274px;
+  width: 36px;
+  height: 34px;
+  object-fit: cover;
+}
+.list-icon {
+  position: absolute;
+  top: 649px;
+  left: 327px;
+  width: 32px;
+  height: 33px;
+}
+.shiv-thandav-img-1-icon {
+  position: absolute;
+  top: 624px;
+  left: 7px;
+  width: 76px;
+  height: 121px;
+  object-fit: cover;
+}
+.div3,
+.pinned1,
+.shiv-tandav-stotram,
+.used-by-100k {
+  position: absolute;
+  top: 655px;
+  left: 96px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 151px;
+  height: 4px;
+}
+.div3,
+.pinned1,
+.used-by-100k {
+  top: 673px;
+  left: 107px;
+  width: 130px;
+  height: 22px;
+}
+.div3,
+.pinned1 {
+  top: 714px;
+  left: 101px;
+  width: 46px;
+  height: 13px;
+}
+.pinned1 {
+  left: 154px;
+  color: var(--color-red);
+  width: 55px;
+  height: 12px;
+}
+.discover-sounds-item {
+  position: absolute;
+  top: 1544.5px;
+  left: -2318.5px;
+  border-top: 1px solid #e6dcdc;
+  box-sizing: border-box;
+  width: 368px;
+  height: 1px;
+}
+.arrow-drop-down-icon1 {
+  position: absolute;
+  top: 2294px;
+  left: 209px;
+  width: 24px;
+  height: 24px;
+}
+.discover-sounds {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--m3-label-large-size);
+  color: var(--color-black);
+  font-family: var(--m3-label-large);
+}

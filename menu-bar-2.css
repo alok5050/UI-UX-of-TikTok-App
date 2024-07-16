@@ -1,0 +1,121 @@
+.category,
+.tik-tok {
+  position: absolute;
+  color: var(--color-gray-600);
+}
+.category {
+  top: 227px;
+  left: 24px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-alef);
+}
+.tik-tok {
+  top: 728px;
+  left: 31px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 152px;
+  height: 26px;
+}
+.arts,
+.athietics,
+.dance,
+.food-and-drink,
+.hobbies,
+.production-and-manufacturing,
+.relationship,
+.tiktok-style,
+.tourism,
+.vehicles-and-transportation {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.dance-arts-food-container {
+  position: absolute;
+  top: 266px;
+  left: 31px;
+  display: inline-block;
+  width: 359px;
+  height: 369px;
+}
+.english,
+.menu-bar-2-child {
+  position: absolute;
+  top: 760px;
+  left: 31px;
+  width: 206px;
+  height: 31px;
+}
+.english {
+  top: 765px;
+  left: 38px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 84px;
+  height: 20px;
+}
+.menu-icon1 {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 42px;
+  height: 37px;
+}
+.terms-of-service1 {
+  position: absolute;
+  top: 57px;
+  left: 16px;
+  display: inline-block;
+  width: 149px;
+  height: 23px;
+}
+.tik-tok-logo {
+  position: absolute;
+  height: 35.23%;
+  width: 8.54%;
+  top: 7.95%;
+  right: 76%;
+  bottom: 56.82%;
+  left: 15.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tiktok {
+  position: absolute;
+  top: 7px;
+  left: 80px;
+  font-size: 30px;
+  font-weight: 800;
+  display: inline-block;
+  width: 134px;
+  height: 44px;
+}
+.privacy-and-settings1,
+.top-bar {
+  position: absolute;
+  text-align: center;
+}
+.top-bar {
+  top: 42px;
+  left: 0;
+  width: 390px;
+  height: 88px;
+  overflow: hidden;
+}
+.privacy-and-settings1 {
+  top: 153px;
+  left: 27px;
+  color: var(--tik-tok-dark);
+}
+.menu-bar-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,7 @@
+.line-div {
+  width: 100%;
+  position: relative;
+  border-top: 1px solid var(--color-darkgray-300);
+  box-sizing: border-box;
+  height: 1px;
+}

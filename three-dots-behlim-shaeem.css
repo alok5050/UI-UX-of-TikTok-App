@@ -1,0 +1,483 @@
+.privacy-and-settings {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  font-weight: 600;
+  display: inline-block;
+  width: 166px;
+  height: 19px;
+}
+.privacy-top-child {
+  position: absolute;
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 391px;
+  height: 1px;
+}
+.back-icon {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.privacy-top {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 390px;
+  height: 35px;
+  font-size: var(--font-size-base);
+}
+.general {
+  position: absolute;
+  top: 128px;
+  left: 27px;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 77.4px;
+  height: 17px;
+}
+.translation-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24.2px;
+  height: 25px;
+  object-fit: cover;
+}
+.language {
+  position: absolute;
+  top: 3.5px;
+  left: 35.8px;
+  display: inline-block;
+  width: 77.4px;
+  height: 18px;
+}
+.forward-icon {
+  position: absolute;
+  top: 6px;
+  left: 329.8px;
+  width: 14.5px;
+  height: 15px;
+  object-fit: cover;
+}
+.translation-parent {
+  position: absolute;
+  top: 161px;
+  left: 35px;
+  width: 344.3px;
+  height: 25px;
+}
+.three-dots-behlim-shaeem-child {
+  position: absolute;
+  top: 199.5px;
+  left: 23.1px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 339.5px;
+  height: 1px;
+}
+.image-2 {
+  position: absolute;
+  top: 995px;
+  left: -605px;
+  width: 45px;
+  height: 16.5px;
+}
+.open-source-software {
+  position: absolute;
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 218px;
+  height: 17px;
+}
+.forward-icon1 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.cloud-file-icon,
+.ossn {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.cloud-file-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.ossn {
+  top: 237px;
+  width: 356px;
+}
+.intellectual-property-rights {
+  position: absolute;
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 191px;
+  height: 17px;
+}
+.copyright-icon,
+.forward-icon2 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.copyright-icon {
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+}
+.ipr,
+.privacy-policy {
+  position: absolute;
+  top: 187px;
+  left: 0;
+  width: 356px;
+  height: 22px;
+}
+.privacy-policy {
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon3 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.file-icon,
+.pp {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.file-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.pp {
+  top: 137px;
+  width: 356px;
+}
+.terms-of-service {
+  position: absolute;
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon4 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.paper-icon,
+.tos {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.paper-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.tos {
+  top: 87px;
+  width: 356px;
+}
+.community-guidelines {
+  position: absolute;
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 162px;
+  height: 20px;
+}
+.forward-icon5 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.cg,
+.wedding-rings-icon {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.wedding-rings-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.cg {
+  top: 37px;
+  width: 356px;
+}
+.about-tiktok2,
+.about-tiktok3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 112px;
+  height: 16px;
+}
+.about-tiktok3 {
+  display: inline-block;
+}
+.about-tiktok2 {
+  color: var(--color-gray-200);
+}
+.about-tiktok,
+.about-tiktok1,
+.ossn-parent,
+.privacy-center1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 356px;
+  height: 259px;
+}
+.about-tiktok,
+.privacy-center1 {
+  top: 519px;
+  left: 24px;
+}
+.privacy-center1 {
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon6,
+.privacy-icon {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.privacy-icon {
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+}
+.privacy-center,
+.safety-center1 {
+  position: absolute;
+  top: 237px;
+  left: 0;
+  width: 356px;
+  height: 22px;
+}
+.safety-center1 {
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon7,
+.protect-icon {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.protect-icon {
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+}
+.help-center1,
+.safety-center {
+  position: absolute;
+  top: 187px;
+  left: 0;
+  width: 356px;
+  height: 22px;
+}
+.help-center1 {
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon8,
+.help-icon {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.help-icon {
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+}
+.help-center,
+.screen-time1 {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  width: 356px;
+  height: 22px;
+}
+.screen-time1 {
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon9 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.screen-time,
+.time-machine-icon {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.time-machine-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.screen-time {
+  top: 87px;
+  width: 356px;
+}
+.report-a-problem {
+  position: absolute;
+  top: 2px;
+  left: 37px;
+  display: inline-block;
+  width: 117px;
+  height: 18px;
+}
+.forward-icon10 {
+  position: absolute;
+  top: 4px;
+  left: 341px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.create-icon,
+.report-tab,
+.support3 {
+  position: absolute;
+  left: 0;
+  height: 22px;
+}
+.create-icon {
+  top: 0;
+  width: 22px;
+  object-fit: cover;
+}
+.report-tab,
+.support3 {
+  top: 37px;
+  width: 356px;
+}
+.support3 {
+  top: 0;
+  display: inline-block;
+  width: 112px;
+  height: 16px;
+}
+.support-child {
+  position: absolute;
+  top: 278px;
+  left: 3px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 351px;
+  height: 1px;
+}
+.support2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 353px;
+  height: 278px;
+  color: var(--color-gray-200);
+}
+.bottom-line,
+.privacy-center-parent,
+.support,
+.support1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 356px;
+  height: 278px;
+}
+.bottom-line,
+.support {
+  top: 219px;
+  left: 24px;
+}
+.bottom-line {
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 391px;
+  height: 1px;
+}
+.three-dots-behlim-shaeem {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--m3-label-large-size);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

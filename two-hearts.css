@@ -1,0 +1,9 @@
+.two-hearts {
+  width: 100%;
+  position: relative;
+  height: 40px;
+  background-image: url(./public/two-hearts@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

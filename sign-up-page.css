@@ -1,0 +1,145 @@
+.close-icon1 {
+  position: absolute;
+  top: 49px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.create-a-profile,
+.sign-up-for {
+  position: absolute;
+  display: inline-block;
+}
+.sign-up-for {
+  top: 94px;
+  left: 77px;
+  font-size: 25px;
+  width: 233px;
+  height: 37px;
+}
+.create-a-profile {
+  top: 160px;
+  left: 36px;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  width: 310px;
+  height: 59px;
+}
+.sign-up-page-child,
+.sign-up-page-inner,
+.sign-up-page-item {
+  position: absolute;
+  top: 244px;
+  left: 52px;
+  border-radius: var(--br-2xs);
+  width: 289px;
+  height: 52px;
+}
+.sign-up-page-inner,
+.sign-up-page-item {
+  top: 418px;
+  left: 55px;
+}
+.sign-up-page-inner {
+  top: 331px;
+}
+.use-phone-or {
+  position: absolute;
+  top: 249px;
+  left: 87px;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 213px;
+  height: 35px;
+}
+.continue-with-facebook,
+.continue-with-google {
+  position: absolute;
+  top: 343px;
+  left: 98px;
+  font-weight: 600;
+  display: inline-block;
+  width: 238px;
+  height: 24px;
+}
+.continue-with-google {
+  top: 430px;
+  left: 92px;
+}
+.by-continuing-you,
+.confirm-that-you {
+  margin: 0;
+}
+.by-continuing-you-container {
+  position: absolute;
+  top: 708px;
+  left: 0;
+  font-size: var(--font-size-smi);
+  font-weight: 300;
+  display: inline-block;
+  width: 375px;
+  height: 54px;
+}
+.log-in3 {
+  color: var(--color-crimson-400);
+}
+.already-have-an-container1 {
+  width: 100%;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 747px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 390px;
+  height: 42px;
+}
+.facebook-logo-facebook-icon-fr1 {
+  position: absolute;
+  top: 337px;
+  left: 58px;
+  border-radius: 9px;
+  width: 34px;
+  height: 36.8px;
+  object-fit: cover;
+}
+.user-icon2 {
+  position: absolute;
+  top: 252px;
+  left: 58px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.google-logo-google-icongoogle-,
+.icon-google-11 {
+  position: absolute;
+  top: 429px;
+  left: 64px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.google-logo-google-icongoogle- {
+  top: -1202px;
+  left: -423px;
+  width: 40px;
+  height: 43px;
+}
+.sign-up-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

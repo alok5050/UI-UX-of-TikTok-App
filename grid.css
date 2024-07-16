@@ -1,0 +1,9 @@
+.grid {
+  width: 100%;
+  position: relative;
+  height: 47px;
+  background-image: url(./public/grid@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

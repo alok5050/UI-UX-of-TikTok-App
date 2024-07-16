@@ -1,0 +1,197 @@
+.log-in-to {
+  position: absolute;
+  top: 64px;
+  left: 5px;
+  font-weight: 800;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 380px;
+  height: 34px;
+}
+.manage-your-account {
+  margin: 0;
+}
+.comment-on {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.manage-your-account-container {
+  position: absolute;
+  top: 108px;
+  left: 5px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  color: rgba(57, 56, 56, 0.63);
+  display: inline-block;
+  width: 380px;
+  height: 29px;
+  mix-blend-mode: darken;
+}
+.login-page-meenakshi-child {
+  position: absolute;
+  top: calc(50% - 180px);
+  left: 26px;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 338px;
+  height: 73px;
+  mix-blend-mode: hard-light;
+}
+.user-icon1 {
+  position: absolute;
+  top: 184px;
+  left: 45px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.login-page-meenakshi-child1,
+.login-page-meenakshi-inner,
+.login-page-meenakshi-item {
+  position: absolute;
+  top: calc(50% - 87px);
+  left: 26px;
+  background-color: var(--schemes-on-primary);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 338px;
+  height: 73px;
+  mix-blend-mode: normal;
+}
+.login-page-meenakshi-child1,
+.login-page-meenakshi-inner {
+  top: calc(50% + 9px);
+}
+.login-page-meenakshi-child1 {
+  top: calc(50% + 108px);
+  height: 77px;
+}
+.use-phone-email {
+  position: absolute;
+  top: 198px;
+  left: 132px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  white-space: pre-wrap;
+}
+.facebook-logo-facebook-icon-fr {
+  position: absolute;
+  top: 273px;
+  left: 48px;
+  width: 49px;
+  height: 59px;
+  object-fit: cover;
+}
+.log-in-with,
+.log-in-with1 {
+  position: absolute;
+  top: 288px;
+  left: 139px;
+  letter-spacing: 0.01em;
+}
+.log-in-with1 {
+  top: 390px;
+  display: inline-block;
+  width: 193px;
+  height: 22px;
+}
+.free-twitter-logo-icon-2429-th {
+  position: absolute;
+  top: 467px;
+  left: 52px;
+  width: 41px;
+  height: 54px;
+  object-fit: cover;
+}
+.log-in-with2 {
+  position: absolute;
+  top: 488px;
+  left: 149px;
+  letter-spacing: 0.01em;
+}
+.login-page-meenakshi-child2,
+.login-page-meenakshi-child3 {
+  position: absolute;
+  top: 553px;
+  left: 26px;
+  background-color: var(--schemes-on-primary);
+  border: 1px solid rgba(0, 0, 0, 0.49);
+  box-sizing: border-box;
+  width: 338px;
+  height: 73px;
+}
+.login-page-meenakshi-child3 {
+  top: 646px;
+  border: 1px solid rgba(3, 3, 3, 0.48);
+}
+.apple-logo-transparent-icon {
+  position: absolute;
+  top: 561px;
+  left: 52px;
+  border-radius: 418px;
+  width: 50px;
+  height: 55px;
+  object-fit: cover;
+}
+.px-instagram-icon {
+  position: absolute;
+  top: 657px;
+  left: 52px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.log-in-with3 {
+  top: 588px;
+  left: 149px;
+}
+.dont-have-an,
+.log-in-with3,
+.log-in-with4,
+.sign-up {
+  position: absolute;
+  letter-spacing: 0.01em;
+}
+.log-in-with4 {
+  top: 673px;
+  left: 149px;
+  text-shadow: 1px 0 0 transparent, 0 1px 0 transparent, -1px 0 0 transparent,
+    0-1px 0 transparent;
+}
+.dont-have-an,
+.sign-up {
+  top: 772px;
+  left: 82px;
+  font-size: var(--font-size-base);
+}
+.sign-up {
+  top: 773px;
+  left: 270px;
+  color: rgba(238, 8, 49, 0.97);
+}
+.icon-google-1 {
+  position: absolute;
+  top: 381px;
+  left: 53px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.close-icon {
+  position: absolute;
+  top: 45px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+}
+.login-page-meenakshi {
+  width: 100%;
+  position: relative;
+  background-color: var(--schemes-on-primary);
+  height: 844px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
